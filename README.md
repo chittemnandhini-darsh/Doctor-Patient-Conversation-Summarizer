@@ -98,6 +98,11 @@ Doctor: Get enough rest and drink plenty of water.
 ```
 
 ---
+<img width="939" height="468" alt="Screenshot 2026-10-04 144635" src="https://github.com/user-attachments/assets/983d52ed-df53-45f6-9662-afc68d18fbbb" />
+<img width="922" height="215" alt="Screenshot 2026-10-04 144855" src="https://github.com/user-attachments/assets/450baa40-1025-4977-9fa0-ee9252c7186b" />
+
+<img width="920" height="336" alt="Screenshot 2026-10-04 144942" src="https://github.com/user-attachments/assets/d69326e1-e7d0-48fc-b10a-e5cc12dbdc70" />
+
 
 ## 📤 Output
 
@@ -110,7 +115,3 @@ I am not taking any medicine.
 Get enough rest and drink plenty of water.
 
 
-<img width="939" height="468" alt="Screenshot 2026-10-04 144635" src="https://github.com/user-attachments/assets/983d52ed-df53-45f6-9662-afc68d18fbbb" />
-<img width="922" height="215" alt="Screenshot 2026-10-04 144855" src="https://github.com/user-attachments/assets/450baa40-1025-4977-9fa0-ee9252c7186b" />
-
-<img width="920" height="336" alt="Screenshot 2026-10-04 144942" src="https://github.com/user-attachments/assets/d69326e1-e7d0-48fc-b10a-e5cc12dbdc70" />
